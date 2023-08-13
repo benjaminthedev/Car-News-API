@@ -1,6 +1,6 @@
 {
   "name": "car-news-api",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Providing the latest news about the automotive industry!",
   "main": "index.js",
   "scripts": {
