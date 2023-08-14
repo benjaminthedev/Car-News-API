@@ -13,7 +13,7 @@ app.get("/", (req, res) => {
     res.send({
         "data": "benajjjs"
     })
-    console.log('Hit home page');
+    console.log('Hit home page'); 
 });
 
 
